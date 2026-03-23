@@ -1,5 +1,6 @@
 # Terms of Service
 
+**Version:** 1.0  
 **Effective Date:** February 11th 2026
 
 These Terms of Service ("Terms") govern your use of the mobile application **ProThesi** ("App") operated by MA Innovations ("we", "us", or "our").
